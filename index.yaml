@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  giropops-senhas:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-09-11T11:46:45.560089781-03:00"
+    description: Gerador de senhas
+    digest: 02dad4680e8bbcccc7df969c401877d279f03c2044b341e072399a775c3367e2
+    name: giropops-senhas
+    sources:
+    - https://github.com/mirjahal/LINUXtips-Giropops-Senhas
+    urls:
+    - https://github.com/mirjahal/helm-charts/giropops-senhas-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-11T11:46:45.554200215-03:00"
